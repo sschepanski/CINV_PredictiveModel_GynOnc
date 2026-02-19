@@ -1,0 +1,3 @@
+Model,Apparent_AUC,Optimism_corrected_AUC,Bootstrap_resamples_B
+"Elastic net (l1_ratio=0.5, C=1.0)",0.7970742685671418,0.6350302436739094,1000
+Ridge (restricted to 4 predictors; stepwise-selected),0.735933983495874,0.7104804403911269,1000

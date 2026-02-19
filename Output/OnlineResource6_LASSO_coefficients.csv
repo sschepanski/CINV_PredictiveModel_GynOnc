@@ -1,0 +1,9 @@
+Penalty_setting,Variable,Coefficient
+exp(-3),Bildung,-0.0237
+exp(-3),Distress_Level,0.0075
+exp(-3),Migraene,0.3161
+exp(-3),Uebelkeit_Auto,-0.9146
+exp(-3),Uebelkeit_Medikament,-0.171
+exp(-3),emetog_pot_max,-0.1456
+lambda.min (LOOCV; lambda=0.0673),Migraene,0.0259
+lambda.min (LOOCV; lambda=0.0673),Uebelkeit_Auto,-0.091

@@ -1,0 +1,15 @@
+{
+  "lambda_min": 0.0673,
+  "selected_lambda_min": {
+    "Migraene": 0.0259,
+    "Uebelkeit_Auto": -0.091
+  },
+  "selected_exp_m3": {
+    "Bildung": -0.0237,
+    "Migraene": 0.3161,
+    "Uebelkeit_Medikament": -0.171,
+    "Uebelkeit_Auto": -0.9146,
+    "Distress_Level": 0.0075,
+    "emetog_pot_max": -0.1456
+  }
+}

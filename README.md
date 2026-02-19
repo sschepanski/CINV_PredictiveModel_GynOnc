@@ -10,9 +10,9 @@ The primary objective of this project is to develop a predictive model for CINV 
 
 ## Project Structure
 
-- **`data/`**: Contains the dataset used in the analysis.
+- **`data_output/`**: Contains the dataset used in the analysis.
 - **`scr/`**: Python and Jupyter notebooks for data exploration, preprocessing, modeling, and results preparation.
-- **`models/`**: Stores the trained models and associated output files.
+- **`Output/`**: Stores the trained models, graphs, and associated output files.
 
 ## Scripts
 
